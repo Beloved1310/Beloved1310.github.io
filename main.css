@@ -5,51 +5,49 @@ body{
 
 .ini {
     height: 200px;
-    width: 50%;
+    width: 80%;
     border-radius: 20px;
-    margin-left: 300px;
+    margin-left: 30px;
     margin-top: 30px;
     border: solid wheat;
     color: wheat;
 }
 .inii {
     height: 200px;
-    width: 30%;
+    width: 80%;
     border-radius: 20px;
     border:solid wheat; 
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 30px;
     color:wheat;
+
     
 }
 .iniii {
     height: 200px;
-    width: 30%;
+    width: 80%;
     border-radius:20px;
     border:solid wheat;
-    margin-right:50px;
-    margin-left: 870px;
-    margin-top:-210px;
+    margin-left: 30px;
+    margin-top: 30px;
     color:wheat;
 }
 .ini4 {
-    height: 300px;
-    width: 30%;
+    height: 200px;
+    width: 80%;
     border-radius: 20px;
     border: solid wheat;
     margin-left:30px;
-    margin-right: 900px;
-    margin-top:40px;
+    margin-top:30px;
     color:wheat;
 }
 .ini5{
     height: 300px;
-    width: 30%;
+    width: 80%;
     border-radius: 20px;
     border:solid wheat;
-    margin-left: 870px;
-    margin-right: 50px;
-    margin-top: -300px;
+    margin-left: 30px;
+    margin-top: 30px;
     color:wheat
 }
 
@@ -61,12 +59,3 @@ body{
     border-top:30px;
     color: wheat;
 }
-
-hr{
-    height: 200px;
-    width: 30%;
-    margin-left: 120px;
-    margin-right: 120px;
-    color: whitesmoke;
-}
-

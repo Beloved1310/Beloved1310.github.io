@@ -5,7 +5,7 @@ body{
 
 .ini {
     height: 200px;
-    width: 90%;
+    width: 100%;
     border-radius: 20px;
     margin-left: 30px;
     margin-top: 30px;
@@ -14,7 +14,7 @@ body{
 }
 .inii {
     height: 300px;
-    width: 90%;
+    width: 100%;
     border-radius: 20px;
     border:solid wheat; 
     margin-top: 30px;
@@ -25,7 +25,7 @@ body{
 }
 .iniii {
     height: 300px;
-    width: 90%;
+    width: 100%;
     border-radius:20px;
     border:solid wheat;
     margin-left: 30px;
@@ -34,7 +34,7 @@ body{
 }
 .ini4 {
     height: 500px;
-    width: 90%;
+    width: 100%;
     border-radius: 20px;
     border: solid wheat;
     margin-left:30px;
@@ -43,7 +43,7 @@ body{
 }
 .ini5{
     height: 600px;
-    width: 90%;
+    width: 100%;
     border-radius: 20px;
     border:solid wheat;
     margin-left: 30px;
